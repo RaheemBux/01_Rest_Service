@@ -11,7 +11,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("Application Started at 8082 Port using java");
+		System.out.println("Application Started at 8086 Port using java");
 	}
 
 
